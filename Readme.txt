@@ -1,4 +1,4 @@
-
+ï»¿
 ======================Presented by SEA group======================
 
 
@@ -7,13 +7,13 @@ Installation:
 
 Copy "PnFMods" and "PnFModsLoader.py" into /res_mods/a.b.c.d(current version)/
 
-°²×°£º
-°ÑPnFModsºÍPnFModsLoader.py·Åµ½
-ÓÎÏ·°²×°Ä¿Â¼/res_mods/°æ±¾ºÅ/ 
-ÀïÃæ¼´¿É
+å®‰è£…ï¼š
+æŠŠPnFModså’ŒPnFModsLoader.pyæ”¾åˆ°
+æ¸¸æˆå®‰è£…ç›®å½•/res_mods/ç‰ˆæœ¬å·/ 
+é‡Œé¢å³å¯
 
 ==================================================================
 Picture credits to:
-¤·¤å¤¬¤ª(Pixiv 612602)
-¤Ş¤µ¤è	(Twitter @blaulac)
+ã—ã‚…ãŒãŠ(Pixiv 612602)
+ã¾ã•ã‚ˆ	(Twitter @blaulac)
 Mocha	(Pixiv 523251)
